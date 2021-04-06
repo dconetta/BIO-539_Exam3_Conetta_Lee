@@ -4,3 +4,5 @@ For this assignment we will be creating a Github Page and running Version Contro
 
 This assignment will be completed in pairs:
 	Dennis Conetta and Joon Hung Lee are working together in this specific repository 
+	
+Adding in nonesense 
